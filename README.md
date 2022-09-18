@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Simo-CE
-- 👀 I’m interested in CS
-- 🌱 I’m currently learning web development
+- 👋 Hi, I’m Mohamed
+- 👀 I’m interested in Computers & Technologies
+- 🌱 I’m currently a full stack developer
 - 💞️ I’m looking to collaborate on project to help me with my journey
 - 📫 Reach me through mail: ait.ouahmane.01@gmail.com
 
